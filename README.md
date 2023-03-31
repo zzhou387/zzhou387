@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on autonomy and agility of legged robots
+- 👯 I’m open to all collaborations
+- 📫 How to reach me: zhouziyi@gatech.edu
 <!--
 **zzhou387/zzhou387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
